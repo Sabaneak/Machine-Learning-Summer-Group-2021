@@ -25,3 +25,7 @@ https://drive.google.com/drive/folders/1zIm5DiSFhsGo-HuvGRLXAH629zxR4K29?usp=sha
 
 Next, we’ll be dealing with one of the most useful libraries for ML ...numpy or numerical python in short. 
 Happy Learning!
+
+Update:
+
+7th July, 2021: NumPy Material and Practise Notebooks updated in the repo.
