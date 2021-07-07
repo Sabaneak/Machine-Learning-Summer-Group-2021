@@ -21,7 +21,7 @@ Another terrific website to check out is Kaggle. It contains thousands of datase
 Last but not least, I’ve shared a drive link for a Python Crash Course, which can be completed in about 1.5 hours. It also contains an assignment and its solutions in Jupyter notebooks (the .ipynb files) that can either be opened on Colab or Jupyter once you’ve installed Anaconda. People who are comfortable in Python are free to skip this. However, if you are new to Python, please go through it thoroughly and also follow the BPHC Python Summer course. 
 
 Please use bitsmail to open the drive link.
-https://drive.google.com/open... 
+https://drive.google.com/drive/folders/1zIm5DiSFhsGo-HuvGRLXAH629zxR4K29?usp=sharing 
 
 Next, we’ll be dealing with one of the most useful libraries for ML ...numpy or numerical python in short. 
 Happy Learning!
