@@ -29,3 +29,5 @@ Happy Learning!
 Update:
 
 7th July, 2021: NumPy Material and Practise Notebooks updated in the repo.
+8th July, 2021: NumPy Assignment uploaded in the NumPy folder {Deadline : 10th July, 11:59 pm} . Solution to the NumPy practise questions uploaded as well.
+
