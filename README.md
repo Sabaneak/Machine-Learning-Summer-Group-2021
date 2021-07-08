@@ -23,11 +23,11 @@ Last but not least, I’ve shared a drive link for a Python Crash Course, which 
 Please use bitsmail to open the drive link.
 https://drive.google.com/drive/folders/1zIm5DiSFhsGo-HuvGRLXAH629zxR4K29?usp=sharing 
 
-Next, we’ll be dealing with one of the most useful libraries for ML ...numpy or numerical python in short. 
 Happy Learning!
 
 Update:
 
 7th July, 2021: NumPy Material and Practise Notebooks updated in the repo.
+
 8th July, 2021: NumPy Assignment uploaded in the NumPy folder {Deadline : 10th July, 11:59 pm} . Solution to the NumPy practise questions uploaded as well.
 
