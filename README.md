@@ -31,3 +31,5 @@ Update:
 
 8th July, 2021: NumPy Assignment uploaded in the NumPy folder {Deadline : 10th July, 11:59 pm} . Solution to the NumPy practise questions uploaded as well.
 
+11th July, 2021: Pandas Material and Pratise Notebooks updated in the repo.
+
