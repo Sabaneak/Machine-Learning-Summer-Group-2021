@@ -33,3 +33,5 @@ Update:
 
 11th July, 2021: Pandas Material and Pratise Notebooks updated in the repo.
 
+12th July, 2021: NumPy assignment solutions updated in the repo
+
