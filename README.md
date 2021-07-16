@@ -35,3 +35,4 @@ Update:
 
 12th July, 2021: NumPy assignment solutions updated in the repo
 
+14th July, 2021: Pandas Assignment uploaded
